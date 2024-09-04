@@ -20,7 +20,6 @@ This project is a real-time device tracking application that uses geolocation an
 - Socket.io
 - Leaflet.js
 - EJS (Embedded JavaScript templating)
-- Helmet (for setting security-related HTTP headers)
 
 ## Project Structure
 
